@@ -1,5 +1,5 @@
 //------------------------------------------------------------
-// T-Rudder
+// T_Rudder_type-A
 // MCU: Arduino Pro Micro
 // ADC: ADS1115
 // Sersor: A1324LUA-T
