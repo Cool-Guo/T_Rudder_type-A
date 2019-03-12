@@ -55,5 +55,4 @@ void loop() {
   //convertRudder(adc0);  //For setting the maxValue and minValue
   originalOut(adc0);
   delay(DELAY_TIME);
-  
 }
